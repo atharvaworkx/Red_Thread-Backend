@@ -1,0 +1,18 @@
+# Virtual Environments
+.venv/
+venv/
+ENV/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.sqlite3
+
+# Environment variables
+.env
+.env.local
+
+# Django Static Assets & Local Generated Reports
+staticfiles/
+reports/
