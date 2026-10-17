@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🧵 RED THREAD
+#  RED THREAD
 
 ### **Autonomous OSINT Intelligence, Knowledge Synthesis & Research Engine**
 
