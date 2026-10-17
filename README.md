@@ -201,14 +201,9 @@ red-thread/
 2. **SSRF Hardened**: Outbound web ingestion actively resolves DNS and inspects IP addresses prior to connection, neutralizing server-side request forgery vectors against internal network resources.
 3. **Deterministic Integrity**: Every claim is verifiable. If a source cannot corroborate an assertion, it is tagged as `SINGLE_SOURCE` or `DISPUTED`.
 
----
-
-## 📜 License
-
-Distributed under the **MIT License**. See `LICENSE` for more information.
 
 <div align="center">
 
-**RED THREAD** — *Precision Intelligence for Complex Domains.*
+**RED THREAD** - *Precision Intelligence for Complex Domains.*
 
 </div>
